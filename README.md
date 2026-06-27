@@ -16,12 +16,15 @@ The system detects customers, tracks their movement throughout the store, estima
 
 - 👥 Real-time customer detection using YOLOv8
 - 🎯 Multi-object tracking using DeepSORT
+- 📊 Customer counting and occupancy estimation
 - 📍 Zone-wise customer analytics
 - ⏱ Customer dwell time estimation
 - 🔥 Customer movement heatmap generation
-- 📊 Interactive Streamlit dashboard
 - 📄 CSV analytics reports
-- 🎥 AI-processed video output
+- 💻 Interactive Streamlit dashboard
+
+---
+
 
 ## 🛠 Tech Stack
 
@@ -34,6 +37,9 @@ The system detects customers, tracks their movement throughout the store, estima
 | Data Processing | Pandas |
 | Dashboard | Streamlit |
 | Model Framework | Ultralytics |
+
+---
+
 
 ## 🏗️ Project Workflow
 
@@ -57,6 +63,9 @@ Customer Counting
                         │
                         ▼
               Streamlit Dashboard
+```
+
+---
 
 ## 📂 Project Structure
 
@@ -75,6 +84,9 @@ RetailVision-AI/
 ├── summary.csv
 ├── zone_analytics.csv
 └── dwell_time.csv
+```
+---
+
 
 ## 🌟 Project Highlights
 
