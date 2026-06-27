@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+opencv-python
+ultralytics
+deep-sort-realtime
+matplotlib
+jupyter
+ipykernel
+imageio-ffmpeg
