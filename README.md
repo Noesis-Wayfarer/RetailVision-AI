@@ -84,6 +84,9 @@ RetailVision-AI/
 ├── summary.csv
 ├── zone_analytics.csv
 └── dwell_time.csv
+├── RetailVisionAI.pptx         # Presentation
+├── RetailVisionAI.pdf          # Report
+└── yolov8n.pt                  
 ```
 ---
 
