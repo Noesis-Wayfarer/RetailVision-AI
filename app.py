@@ -114,5 +114,5 @@ st.divider()
 
 # Footer
 st.caption(
-    "Built with using YOLOv8 • DeepSORT • OpenCV • Streamlit"
+    "Built using YOLOv8 • DeepSORT • OpenCV • Streamlit"
 )
